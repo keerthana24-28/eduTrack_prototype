@@ -4,7 +4,7 @@ EduTrack is a modern, clean, and professional student management mobile app UI p
 
 ## Figma Prototype
 
-[Open the EduTrack Figma Prototype](https://www.figma.com/design/GcuXuHnjcI8ii4rx8JDCOc/EduTrack-Student-Management-Mobile-App?node-id=0-1&p=f&t=W9grPdGFacPngzAA-0)
+[Open the EduTrack Figma Prototype](https://www.figma.com/proto/GcuXuHnjcI8ii4rx8JDCOc/EduTrack-Student-Management-Mobile-App?node-id=2-20&t=f3oNv66xgQfdv9cr-1)
 
 ## Screens Included
 
